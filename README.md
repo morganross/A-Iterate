@@ -1,4 +1,6 @@
 # A-Iterate
+A-Iterate utilizes Morgan Egging's FilePromptForge command line utuility for interacting with chatbots.
+
 AI API writes code. 
 
 A-Iterate executes the code.
